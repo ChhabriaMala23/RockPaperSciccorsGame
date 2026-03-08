@@ -1,0 +1,87 @@
+body {
+    background-color: #f1f1f1;
+    /* font-family: "arial", sans-serif; */
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    /* font-size: 2rem; */
+    text-align: center;
+    padding-top: 100px;
+}
+
+p {
+    font-size: 22px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    border: none;
+    font-size: 40px;
+    margin: 0 0.5rem;
+    padding: 0.5rem;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: all 0.1s ease-in-out;
+}
+
+button:hover {
+    opacity: 0.8;
+}
+
+#rock {
+    background-color: red;
+}
+
+#paper {
+    background-color: rgb(66, 176, 212);
+}
+
+#scissors {
+    background-color: rgb(50, 187, 50);
+}
+
+#user-score {
+    color: rgb(37, 148, 185);
+}
+
+#computer-score {
+    color: red;
+}
+
+/* soo todays date is 9-2-26 i am going to make js calculator tommorow by myself i mean i try my whole 
+and maybe i will get some help from google and w3schools for you know table rows ui or li maybe i will try 
+if i cant then only i will see the calculator code and today i am making this rock paper scissors game 
+and i have already made age calculator and i have made to do lst too by the help of chatgpt
+sooooo now maybe i can make one project by myself i will try  my theeee bestttt lets see then another update
+on another project hehe */
+
+/* i like to write these little notess like this  */
+
+/* i have an idea in my mind how to make calculator but still i dont know little bit how to write code or
+understand code but yeahhh its funn lets make it */
+
+/* and then i will start applying on jobs from yesterday only or maybe after yesterday but i willllll 
+start applying so that i could get a job until the end of march. i will add these projects in my resume and maybe
+i will try 1 or 2 MERN Stack project too so that i could add them in resume too*/
+
+/* i am not applying still cause i want my resume to be perfect or you know so that i could get a good job 
+because of good skills and good skilled projects but everyone is keep telling me to start applying
+and that will help me even tough i fail some interviews it will give  me experience like how to talk
+and confidence and will know what type of questions they ask in interviews so yeahhh i understand that and will
+start applying for jobs even tough not so perfect resume it will help me only and i dont even got time
+to make projects or learning skills my whole day just go by soo fast and i am just scrolling or playing games
+       i have to be locked in and be consistent           it has been more than a month that my degree exams have
+gome but i still didnt got result or degree so it is good that i dont gat any ap in between studies and job
+sooo yeah*/ 
+
+/* i thought that i will be learnig alot about code like mern stack projects leetcode and interview questions
+but i dont do anything so i am going like this only so it give me some experince and i want a good big job in 
+the start only but i dont think its possible*/
